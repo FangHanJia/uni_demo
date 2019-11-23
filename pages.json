@@ -5,7 +5,9 @@
 			"style": {
 				// #ifdef MP
 				"navigationBarTitleText": "佳商城",
+				// "navigationStyle": "custom",
 				// #endif
+
 				"app-plus": {
 					"titleNView": {
 						"type": "transparent",

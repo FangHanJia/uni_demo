@@ -11,6 +11,8 @@
 				circular 
 				autoplay="true"
 				interval="5000"
+				indicator-dots="true"
+				indicator-active-color="#fa436a"
 				@change="swiperChange">
 				<swiper-item v-for="(item, index) in carouselList" :key="index" class="carousel-item" @click="navToDetailPage({title: '轮播广告'})">
 					<image :src="item.src" />

@@ -1,2 +1,2 @@
-# uni_demo
-uni-app demo 电商
+# uniapp-demo-app
+- uniapp学习demo
